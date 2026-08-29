@@ -11,7 +11,7 @@ Library: D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\BurstOutput\Data\
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\Burst
 --generate-static-linkage-methods
---key-folder=E:/Unity/Editor/6000.5.6f1/Editor/Data/PlaybackEngines/WebGLSupport
+--key-folder=E:/Unity/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Library\Burst
 --output=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -32,7 +32,7 @@ Library: D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\BurstOutput\Data\
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\Burst
 --generate-static-linkage-methods
---key-folder=E:/Unity/Editor/6000.5.6f1/Editor/Data/PlaybackEngines/WebGLSupport
+--key-folder=E:/Unity/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Library\Burst
 --output=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -51,7 +51,7 @@ Library: D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\BurstOutput\Data\
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\Burst
 --generate-static-linkage-methods
---key-folder=E:/Unity/Editor/6000.5.6f1/Editor/Data/PlaybackEngines/WebGLSupport
+--key-folder=E:/Unity/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Library\Burst
 --output=D:\UnityProjects\3D-ANWENDUNGEN\Demo_BridgeCrane\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
